@@ -3,6 +3,7 @@ struct student
 {
  char name[50];
  int age;
+ int age2;
  float marks;
  }s1;
  union student1
