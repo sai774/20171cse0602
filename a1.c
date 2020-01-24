@@ -14,5 +14,6 @@ struct student
  void main()
 {
  printf("size of structure variable is %d",sizeof(s1));
+  printf("change in master branch");
  printf("size of union variable is %d\n",sizeof(s2));
 }
