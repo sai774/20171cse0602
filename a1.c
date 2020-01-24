@@ -13,6 +13,6 @@ struct student
 }s2;
  void main()
 {
- printf("size of structure variable is %d\n",sizeof(s1));
+ printf("size of structure variable is %d",sizeof(s1));
  printf("size of union variable is %d\n",sizeof(s2));
 }
